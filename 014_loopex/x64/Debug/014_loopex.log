@@ -1,0 +1,4 @@
+﻿  014_loopex.cpp
+C:\Users\konyang\source\repos\ch4\014_loopex\014_loopex.cpp(39,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\konyang\source\repos\ch4\014_loopex\014_loopex.cpp(39,42): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  014_loopex.vcxproj -> C:\Users\konyang\source\repos\ch4\x64\Debug\014_loopex.exe
